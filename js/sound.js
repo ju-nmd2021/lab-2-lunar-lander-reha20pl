@@ -1,3 +1,5 @@
+
+// add sound for the game
 function initSound() {
     crashSound = new sound("audio/crash.mp3");
     rocketSound = new sound("audio/rocket.mp3");
