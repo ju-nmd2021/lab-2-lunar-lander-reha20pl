@@ -1,3 +1,4 @@
+// add animation
 window.onload = function () {
   init();
   animate();
