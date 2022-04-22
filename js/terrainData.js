@@ -2,7 +2,7 @@
 width = 800
 height = 450
 */
-
+// count points 
 const points = [
     [0,28],
     [10,15],
