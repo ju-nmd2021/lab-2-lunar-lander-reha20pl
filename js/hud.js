@@ -36,7 +36,7 @@ function renderHud() {
     hudTexture.needsUpdate = true;
     renderer.render(sceneHud, cameraHud);
 }
-
+// add time path 
 function fillLeftInfoPanel() {
     hudContext.textAlign = 'left';
     hudContext.fillStyle = infoPanelTextColor;
