@@ -1,3 +1,4 @@
+// declare var
 let scene, camera, renderer;
 
 let sceneHud, cameraHud;
